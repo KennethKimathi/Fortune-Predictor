@@ -1,4 +1,5 @@
 Fortune-Predictor
+
 This script is part of a private project where I attempted to predict frofits of fortune-500 companies based on different factores. 
 In this script, I only show how I assess feature imprtance, to determine which features had the largest influenceon profits. The output looks as follows: 
 
