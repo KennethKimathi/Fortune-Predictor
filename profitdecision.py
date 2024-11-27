@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import LabelEncoder
 
 # Loading the dataset
-df = pd.read_csv(r"C:\Users\ADMIN\OneDrive\Desktop\AC\Ornate\fortunepredictor\fortune1000_2024 (1).csv")
+df = pd.read_csv(r"AC\Ornate\fortunepredictor\fortune1000_2024 (1).csv")
 
 # Displaying the first few rows of the dataset to understand its structure
 print(df.head())
